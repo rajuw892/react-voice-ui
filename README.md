@@ -25,5 +25,5 @@ const App = () => {
 - Start and stop voice recognition
 - Text-to-Speech feedback
 
-## License
-MIT License
+## Personal message
+- Guys i'm creating this new react-voice-ui library, Feel free to contribute and give me the next feature ideas.
