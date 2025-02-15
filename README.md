@@ -50,5 +50,21 @@ Help developers add voice features in seconds 🛠️
 🔥 react-voice-ui makes this possible in just a few lines of code!
 
 
-## Message to Developers out there,
-Suggest me some good idea what we can add more to this and you can also coontribute to this project as it is open source.
+## Message to Developers
+🎤 Calling All Developers! Contribute to react-voice-ui 🚀
+Hello Developers! 👋
+
+Are you excited about voice-controlled UI in React? Do you love working on cutting-edge web technologies? Join us in improving react-voice-ui, an open-source library that brings voice commands to React apps effortlessly!
+
+🌟 Why Contribute?
+✅ Improve accessibility – Make the web hands-free!
+✅ Enhance React apps – Add voice-powered interactions.
+✅ Learn new tech – Web Speech API, NLP, AI-powered commands.
+✅ Boost your GitHub profile – Get recognized for your contributions!
+
+🚀 What We’re Building Next
+🔹 AI-powered smart commands (understand similar phrases)
+🔹 Wake word activation (hands-free "Hey Voice UI")
+🔹 Multi-language support 🌍
+🔹 Customizable text-to-speech (different voices)
+🔹 Pre-built command packs for media, navigation, and more!
